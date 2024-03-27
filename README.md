@@ -1,8 +1,8 @@
-# Elucidating the Design Space of Large-Scale Dataset Condensation
+# EDC
 
 Offical Implementation of our research:
 
-> **Exploring Common Strength for Data Condensation ** <br>
+> **Elucidating the Design Space of Large-Scale Dataset Condensation ** <br>
 
 Authors:
 
