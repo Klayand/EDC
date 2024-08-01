@@ -127,7 +127,7 @@ CUDA_VISIBLE_DEVICES=0 python train_FKD_parallel.py \
     --fkd-path /path to the synthetic label
 ```
 
-That`s all about the whole process.
+This is all about the whole process.
 For `ImageNet-1k`, recommend you to directly download the collected statistics for simplicity. **[Statistics Download Links](https://github.com/Klayand/EDC/releases/tag/v1.0)**
 
 
